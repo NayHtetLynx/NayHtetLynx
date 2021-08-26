@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Php**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetLynx)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetLynx&show_icons=true&theme=tokyonight)
 
 
 <h3 align="left">Connect with me:</h3>
