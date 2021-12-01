@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/nayhtetlynn" target="blank"><img src="https://img.shields.io/twitter/follow/nayhtetlynn?logo=twitter&style=for-the-badge" alt="nayhtetlynn" /></a> </p>
 
-- 🌱 I’m currently learning **Python, js**
+- 🌱 I’m currently learning **Python, js,nextjs**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayHtetLynx&show_icons=true&theme=tokyonight)
 
